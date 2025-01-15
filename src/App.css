@@ -1,4 +1,4 @@
-#root{
+#root {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
@@ -16,9 +16,9 @@
     color: #333;
     margin: 0;
     padding: 20px;
-  }
-  
-  input[type="text"] {
+}
+
+input[type="text"] {
     width: 300px;
     padding: 10px;
     border: 1px solid #ddd;
@@ -26,14 +26,14 @@
     font-size: 16px;
     margin-bottom: 20px;
     transition: box-shadow 0.2s ease-in-out;
-  }
-  
-  input[type="text"]:focus {
+}
+
+input[type="text"]:focus {
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
     outline: none;
-  }
-  
-  button {
+}
+
+button {
     padding: 10px 20px;
     font-size: 16px;
     color: #fff;
@@ -42,20 +42,20 @@
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
-  }
-  
-  button:hover {
+}
+
+button:hover {
     background-color: #0056b3;
-  }
-  
-  ul {
+}
+
+ul {
     list-style: none;
     padding: 0;
     margin-top: 20px;
     width: 300px;
-  }
-  
-  li {
+}
+
+li {
     padding: 10px;
     margin-bottom: 10px;
     background: #fff;
@@ -66,9 +66,8 @@
     align-items: center;
     justify-content: space-between;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
-  li:last-child {
+}
+
+li:last-child {
     margin-bottom: 0;
-  }
-  
+}
