@@ -51,7 +51,7 @@ A **Simple ToDo App** built using React that allows users to manage tasks effici
 ### **Setup**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Shams-Saniat/ToDo-app-using-React
 2. Navigate to the project directory:
    ```bash
    cd todo-app
