@@ -53,10 +53,13 @@ A **Simple ToDo App** built using React that allows users to manage tasks effici
    ```bash
    git clone https://github.com/yourusername/todo-app.git
 2. Navigate to the project directory:
+   ```bash
    cd todo-app
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
    npm install
-4. Run the app:
+6. Run the app:
+   ```bash
    npm start
 
 
